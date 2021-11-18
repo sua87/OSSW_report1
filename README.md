@@ -1,6 +1,5 @@
 # OSSW_report1
 
-# OSSW_report1
 + 담당교수: 전찬준 교수   
 + 과목명: 오픈소스SW개론   
 + 과제명: report1  
